@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.17",
+	"EngineAssociation": "4.23",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -15,10 +15,6 @@
 		},
 		{
 			"Name": "BlueprintStats",
-			"Enabled": true
-		},
-		{
-			"Name": "StructBox",
 			"Enabled": true
 		}
 	]
